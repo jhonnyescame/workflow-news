@@ -1,6 +1,0 @@
-[0530/232849.312:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files (x86)\Easthas\Reports\Dump: O sistema não pode encontrar o caminho especificado. (0x3)
-[0530/232849.316:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: O pipe foi finalizado. (0x6D)
-[0530/232849.318:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files (x86)\Easthas\Reports\Dump: O sistema não pode encontrar o caminho especificado. (0x3)
-[0530/233004.345:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files (x86)\Easthas\Reports\Dump: O sistema não pode encontrar o caminho especificado. (0x3)
-[0530/233004.347:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: O pipe foi finalizado. (0x6D)
-[0530/233004.348:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files (x86)\Easthas\Reports\Dump: O sistema não pode encontrar o caminho especificado. (0x3)
